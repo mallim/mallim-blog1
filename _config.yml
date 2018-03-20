@@ -1,24 +1,68 @@
-# Name of your blog (this will show up at the top of your page and in the RSS feed)
-name: Ian LIM - Software Craftsmanship 20 years
+# Outputting
+permalink: /:categories/:year/:month/:day/:title.html
 
-# Your name, as you want it to appear underneath each post and in the footer
-author: Ian LIM
+# Conversion
+markdown:         kramdown
+highlighter:      rouge
+excerpt_separator: <!--more-->
 
-# Your email if you want it to be linked on the contact page
-author_email: mallim.ink@gmail.com
+# Config for your profile.
+title:            friday-theme.github.io  # Site title
+name:             John Smith              # Your name
+avatar:           /theme/img/avatar.jpg   # Path to an avatar image
 
-#### Under the Hood Stuff #####
+# The theme uses the baseurl throughout, which is useful for running the entire
+# site under a subdir, like for this GitHub Pages deployment as a project site.
+# baseurl: "/friday-theme"
 
-# Use rdiscount as the markdown engine because it generates html5 compliant code for stuff like footnotes
-# If you use maroku (default engine) some of your generated pages may not validate or lint as html5
-# If you don't have it install it via gem install rdiscount
-markdown: rdiscount
+# Add a directory to hold misc pages, just to keep the root directory clean.
+include: ["_pages", "_portfolio"]
 
-# Makes pretty (descriptive) permalinks. See Jekyll docs for alternatives.
-permalink: pretty
+# Turn the projects into a collection.
+collections:
+  projects:
+    output: true
+    title: Projects
+    permalink: /:collection/:name.html
+  portfolio:
+    output: true
+    title: portfolio
+    permalink: /:collection/:name.html
 
-# How many articles do you wish to appear on the front page:
-paginate: 3
+defaults:
+# Turn the profile sidebar on for all pages by default, except for the
+# collections, where it is off and replaced by useful things on the sidebar.
+# To override this one a page, use
+#    show_profile: false
+# to hide the profile.
+  -
+    scope:
+      path: ""
+    values:
+      show_profile: true
+  -
+    scope:
+      path: "_posts"
+    values:
+      show_profile: false
+      layout: defaults/post
+  -
+    scope:
+      path: "_portfolio"
+    values:
+      show_profile: false
+      layout: defaults/portfolio
+  -
+    scope:
+      path: "_projects"
+    values:
+      show_profile: false
+      layout: defaults/project
+  -
+    scope:
+      path: "list"
+    values:
+      show_profile: false
+      layout: defaults/list
 
-# Exclude metadata and development time dependencies (like Grunt plugins)
-exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
+

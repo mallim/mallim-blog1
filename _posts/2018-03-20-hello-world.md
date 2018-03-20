@@ -1,7 +1,8 @@
 ---
-layout: post
 title: "Ian LIM - Hello World @ 2018"
-date: 2018-03-20
+tags:
+  - hello_world
+  - welcome
 ---
 
 Well. Finally got around to putting this old website together. 
