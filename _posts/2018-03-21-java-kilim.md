@@ -1,5 +1,6 @@
 ---
 title: "Kitlim"
+comments: true
 tags:
   - kitlim
   - java

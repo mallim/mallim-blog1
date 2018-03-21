@@ -1,5 +1,6 @@
 ---
 title: "Random test data generator"
+comments: true
 tags:
   - test data generator
   - random Java beans

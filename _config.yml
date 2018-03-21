@@ -11,6 +11,12 @@ title:            Software Craftsmanship 20 years              # Site title
 name:             Ian LIM - a Software Craftsman # Your name
 avatar:           /theme/img/1547272.jpg   # Path to an avatar image
 
+# Disqus Comments
+disqus:
+    # Leave shortname blank to disable comments site-wide.
+    # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
+    shortname: mallim
+
 # The theme uses the baseurl throughout, which is useful for running the entire
 # site under a subdir, like for this GitHub Pages deployment as a project site.
 # baseurl: "/friday-theme"
