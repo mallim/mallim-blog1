@@ -2,6 +2,7 @@
 title: "Random test data generator"
 tags:
   - test data generator
+  - random Java beans
   - java
 ---
 

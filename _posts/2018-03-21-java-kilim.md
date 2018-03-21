@@ -1,7 +1,7 @@
 ---
-title: "Kitlin"
+title: "Kitlim"
 tags:
-  - kitlin
+  - kitlim
   - java
 ---
 
