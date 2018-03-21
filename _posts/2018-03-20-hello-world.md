@@ -10,7 +10,9 @@ Well. Finally got around to putting this old website together.
 
 <!--more-->
 
-### Treat this as Hello World
+### Treat this as Hello World 
+
+But is actually like a changelog
 
 Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. 
 It actually is a lot easier than I thought it was going to be.
@@ -21,6 +23,8 @@ This site is made possible by the amazing people in the internet, special thanks
 
 * [Creating and Hosting a Personal Site on GitHub](http://jmcglone.com/guides/github-pages/) for the inspiration
 * [John Smith's The Friday theme](https://sfreytag.github.io/friday-theme/index.html) for the theme
+* [Setup up a jekyll blog using github pages and disqus comments](http://vdaubry.github.io/2014/10/19/setup-a-jekyll-blog/) 
+[Jekyllthemes](http://jekyllthemes.org), [stock-up](https://www.sitebuilderreport.com/stock-up), for the idea on [Disqus](https://disqus.com/), contact form
 
 ## Disqus is a challenging story
 
@@ -31,8 +35,6 @@ Disqus website itself too generic to be helpful.
 
 ### What's next?
 
-* [Setup up a jekyll blog using github pages and disqus comments](Setup up a jekyll blog using github pages and disqus comments) 
-[Jekyllthemes](http://jekyllthemes.org), [stock-up](https://www.sitebuilderreport.com/stock-up), [Disqus](https://disqus.com/)
-
 * [The Complete Github Personal Website Guide](https://blog.ronakshah.net/The-Complete-Github-Personal-Website-Guide/#initial-setup) 
 setting up free SSL (https), custom domain, email 
+* [jekyll-seo-tag](https://github.com/jekyll/jekyll-seo-tag) idea from [Add social sharing buttons to your Jekyll blog](http://vdaubry.github.io/2014/10/20/add-social-sharing-buttons-with-jekyll/)
