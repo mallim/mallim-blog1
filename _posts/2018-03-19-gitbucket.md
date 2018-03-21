@@ -1,5 +1,6 @@
 ---
 title: "Gitbucket"
+comments: true
 tags:
   - gitbucket
   - java
