@@ -27,7 +27,7 @@ This site is made possible by the amazing people in the internet, special thanks
 Disqus website itself too generic to be helpful.
 
 * Inspired by [Setup up a jekyll blog using github pages and disqus comments](http://vdaubry.github.io/2014/10/19/setup-a-jekyll-blog/)
-* Done by the step here [Disqus comments setup for Jekyll](https://desiredpersona.com/disqus-comments-jekyll/)
+* Done by using the instructions here [Disqus comments setup for Jekyll](https://desiredpersona.com/disqus-comments-jekyll/)
 
 ### What's next?
 
