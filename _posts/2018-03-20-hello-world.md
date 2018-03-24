@@ -21,7 +21,7 @@ It actually is a lot easier than I thought it was going to be.
 
 * Refer to [Jekyll::analytics](https://github.com/hendrikschneider/jekyll-analytics) 
 * [Adding Google Analytics to Jekyll](https://groundberry.github.io/setup/2016/09/16/adding-google-analytics-to-jekyll.html) - a short tutorial on Jekyll with Google Analytics 
-
+* [Google Search Console](https://www.google.com/webmasters/tools/home) - added site to Google Search Console
 
 ### Update before 24-Mar: Disqus is a challenging story
 
@@ -38,8 +38,6 @@ This site is made possible by the amazing people in the internet, special thanks
 * [John Smith's The Friday theme](https://sfreytag.github.io/friday-theme/index.html) for the theme
 * [Setup up a jekyll blog using github pages and disqus comments](http://vdaubry.github.io/2014/10/19/setup-a-jekyll-blog/) 
 [Jekyllthemes](http://jekyllthemes.org), [stock-up](https://www.sitebuilderreport.com/stock-up), for the idea on [Disqus](https://disqus.com/), contact form
-
-
 
 ### What's next?
 
