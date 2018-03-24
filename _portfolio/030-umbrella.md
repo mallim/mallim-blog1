@@ -2,6 +2,7 @@
 title: Umbrella Corporation
 role: Senior Engineer
 duration: June 2014 - May 2015
+sitemap: false
 skills:
   - XML
   - SOAP

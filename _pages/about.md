@@ -14,7 +14,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ### Technology
 
-* JavaScript
-* Python
-* Go
-* Etc
+* Java
+* Javascript

@@ -17,11 +17,12 @@ But is actually like a changelog
 Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. 
 It actually is a lot easier than I thought it was going to be.
 
-## Update 24-Mar: Added Webanalytics for Jekyll
+## Update 24-Mar: Added Webanalytics for Jekyll, Sitemap
 
-* This one does not automatically generate the Google Analytics script - [Jekyll::analytics](https://github.com/hendrikschneider/jekyll-analytics). Instead following this - 
+* This one does not automatically generate the Google Analytics script - [Jekyll::analytics](https://github.com/hendrikschneider/jekyll-analytics). Instead followed the instructions in here - 
 [Google Analytics for Jekyll](https://desiredpersona.com/google-analytics-jekyll/)
 * [Google Search Console](https://www.google.com/webmasters/tools/home) - added site to Google Search Console
+* [Generate Jekyll XML Sitemap Manually Without Using Plugin](https://www.goyllo.com/jekyll-xml-sitemap/) - followed instruction here to add sitemap.xml 
 
 ### Update before 24-Mar: Disqus is a challenging story
 

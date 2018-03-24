@@ -2,6 +2,7 @@
 title: Globex 
 duration: May 2013 - June 2014
 role: User Interface Engineer
+sitemap: false
 skills:
   - JavaScript
   - User Interface Design

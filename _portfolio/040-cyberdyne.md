@@ -2,6 +2,7 @@
 title: Cyberdyne Corporation
 duration: May 2015 - Jan 2016
 role: Team Lead
+sitemap: false
 skills:
   - JavaScript
   - Angular 1.5
