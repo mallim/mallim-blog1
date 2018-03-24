@@ -35,6 +35,7 @@ Disqus website itself too generic to be helpful.
 
 ### What's next?
 
+* [Jekyll::analytics](https://github.com/hendrikschneider/jekyll-analytics) and abit of intro at [Google Analytics setup for Jekyll](https://michaelsoolee.com/google-analytics-jekyll/)
 * [The Complete Github Personal Website Guide](https://blog.ronakshah.net/The-Complete-Github-Personal-Website-Guide/#initial-setup) 
 setting up free SSL (https), custom domain, email 
 * [jekyll-seo-tag](https://github.com/jekyll/jekyll-seo-tag) idea from [Add social sharing buttons to your Jekyll blog](http://vdaubry.github.io/2014/10/20/add-social-sharing-buttons-with-jekyll/)
