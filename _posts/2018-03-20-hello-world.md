@@ -42,7 +42,9 @@ This site is made possible by the amazing people in the internet, special thanks
 
 ### What's next?
 
-* [Jekyll::analytics](https://github.com/hendrikschneider/jekyll-analytics) and abit of intro at [Google Analytics setup for Jekyll](https://michaelsoolee.com/google-analytics-jekyll/)
 * [The Complete Github Personal Website Guide](https://blog.ronakshah.net/The-Complete-Github-Personal-Website-Guide/#initial-setup) 
 setting up free SSL (https), custom domain, email 
-* [jekyll-seo-tag](https://github.com/jekyll/jekyll-seo-tag) idea from [Add social sharing buttons to your Jekyll blog](http://vdaubry.github.io/2014/10/20/add-social-sharing-buttons-with-jekyll/)
+* [jekyll-seo-tag](https://github.com/jekyll/jekyll-seo-tag) idea from 
+[Add social sharing buttons to your Jekyll blog](http://vdaubry.github.io/2014/10/20/add-social-sharing-buttons-with-jekyll/)
+* [5 Steps To Add Bootstrap 4 To Jekyll The Right Way](https://simpleit.rocks/how-to-add-bootstrap-4-to-jekyll-the-right-way/) 
+- upgrade to Bootstrap 4 (latest version) and use SASS instead
