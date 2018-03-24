@@ -17,6 +17,19 @@ But is actually like a changelog
 Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. 
 It actually is a lot easier than I thought it was going to be.
 
+## Update 24-Mar: Added Webanalytics for Jekyll
+
+* Refer to [Jekyll::analytics](https://github.com/hendrikschneider/jekyll-analytics) 
+* [Adding Google Analytics to Jekyll](https://groundberry.github.io/setup/2016/09/16/adding-google-analytics-to-jekyll.html) - a short tutorial on Jekyll with Google Analytics 
+
+
+### Update before 24-Mar: Disqus is a challenging story
+
+Disqus website itself too generic to be helpful.
+
+* Inspired by [Setup up a jekyll blog using github pages and disqus comments](http://vdaubry.github.io/2014/10/19/setup-a-jekyll-blog/)
+* Done by using the instructions here [Disqus comments setup for Jekyll](https://desiredpersona.com/disqus-comments-jekyll/)
+
 ### Acknowledgements
 
 This site is made possible by the amazing people in the internet, special thanks to :
@@ -26,12 +39,7 @@ This site is made possible by the amazing people in the internet, special thanks
 * [Setup up a jekyll blog using github pages and disqus comments](http://vdaubry.github.io/2014/10/19/setup-a-jekyll-blog/) 
 [Jekyllthemes](http://jekyllthemes.org), [stock-up](https://www.sitebuilderreport.com/stock-up), for the idea on [Disqus](https://disqus.com/), contact form
 
-## Disqus is a challenging story
 
-Disqus website itself too generic to be helpful.
-
-* Inspired by [Setup up a jekyll blog using github pages and disqus comments](http://vdaubry.github.io/2014/10/19/setup-a-jekyll-blog/)
-* Done by using the instructions here [Disqus comments setup for Jekyll](https://desiredpersona.com/disqus-comments-jekyll/)
 
 ### What's next?
 
