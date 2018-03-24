@@ -19,7 +19,7 @@ It actually is a lot easier than I thought it was going to be.
 
 ## Update 24-Mar: Added Webanalytics for Jekyll
 
-* This one does not automatically generate the Google Analytics script - [Jekyll::analytics](https://github.com/hendrikschneider/jekyll-analytics). Instead following this - 
+* This one does not automatically generate the Google Analytics script - [Jekyll::analytics](https://github.com/hendrikschneider/jekyll-analytics). Instead followed the instructions in here - 
 [Google Analytics for Jekyll](https://desiredpersona.com/google-analytics-jekyll/)
 * [Google Search Console](https://www.google.com/webmasters/tools/home) - added site to Google Search Console
 
