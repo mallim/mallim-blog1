@@ -1,4 +1,4 @@
-# Ian Lim - Personal Site (Beta)
+# Ian Lim - Personal Blog/Site (Beta)
 
 Take a look at https://mallim.github.io
 
