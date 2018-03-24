@@ -17,6 +17,9 @@ disqus:
     # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
     shortname: mallim
 
+# Google Analytics
+google_analytics: UA-116350674-1
+
 # The theme uses the baseurl throughout, which is useful for running the entire
 # site under a subdir, like for this GitHub Pages deployment as a project site.
 # baseurl: "/friday-theme"
@@ -71,10 +74,6 @@ defaults:
       show_profile: false
       layout: defaults/list
 
-jekyll_analytics:
-  GoogleAnalytics:          # Add, if you want to track with Google Analytics
-    id: UA-116350674-1      # Required - replace with your tracking id
-    anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking
 
-plugins:
-  - jekyll-analytics
+
+

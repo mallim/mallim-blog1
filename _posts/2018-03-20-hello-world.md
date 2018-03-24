@@ -19,8 +19,8 @@ It actually is a lot easier than I thought it was going to be.
 
 ## Update 24-Mar: Added Webanalytics for Jekyll
 
-* Refer to [Jekyll::analytics](https://github.com/hendrikschneider/jekyll-analytics) 
-* [Adding Google Analytics to Jekyll](https://groundberry.github.io/setup/2016/09/16/adding-google-analytics-to-jekyll.html) - a short tutorial on Jekyll with Google Analytics 
+* This one does not automatically generate the Google Analytics script - [Jekyll::analytics](https://github.com/hendrikschneider/jekyll-analytics). Instead following this - 
+[Google Analytics for Jekyll](https://desiredpersona.com/google-analytics-jekyll/)
 * [Google Search Console](https://www.google.com/webmasters/tools/home) - added site to Google Search Console
 
 ### Update before 24-Mar: Disqus is a challenging story
