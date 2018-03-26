@@ -7,8 +7,8 @@ highlighter:      rouge
 excerpt_separator: <!--more-->
 
 # Config for your profile.
-title:            Software Craftsmanship 20 years              # Site title
-name:             Ian LIM - a Software Craftsman # Your name
+title:            24 years in Software Craftsmanship # Site title
+name:             Ian LIM - Software Craftsman # Your name
 avatar:           /theme/img/1547272.jpg   # Path to an avatar image
 
 # Disqus Comments
