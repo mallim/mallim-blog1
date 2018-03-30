@@ -1,5 +1,5 @@
 ---
-title: "Let my future be Complete..."
+title: "Let My Future be Complete..."
 comments: true
 tags:
   - java
@@ -16,7 +16,7 @@ Hmm.. so there is a a difference.
 
 ### Libraries related to CompletableFuture 
 
-* [tascalate-concurrent]{https://github.com/vsilaev/tascalate-concurrent)
+* [tascalate-concurrent](https://github.com/vsilaev/tascalate-concurrent)
 
 ### Libraries related to Executor
 
