@@ -16,7 +16,7 @@ Hmm.. so there is a a difference.
 
 ### Libraries related to CompletableFuture 
 
-* [tascalate-concurrent]{https://github.com/vsilaev/tascalate-concurrent)
+* [tascalate-concurrent]{https://github.com/vsilaev/tascalate-concurrent]
 
 ### Libraries related to Executor
 
