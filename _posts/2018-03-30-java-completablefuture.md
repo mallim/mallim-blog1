@@ -28,6 +28,12 @@ Hmm.. so there is a a difference.
 * [Java 8: CompletableFuture vs Parallel Stream](http://fahdshariff.blogspot.sg/2016/06/java-8-completablefuture-vs-parallel.html?m=1)
 * [Gentle introduction to Completable Future](https://blog.cngroup.dk/2015/08/04/completable-future/ ) gives a Thread Pool Size Formula
 
+### Spring @Async with CompletableFuture
+
+* [One example](https://github.com/mallim/java101/tree/master/spring-async-complfuture) - based on Spring Boot 2.0 works nicely.
+* [Completable futures with Spring async](https://geowarin.github.io/completable-futures-with-spring-async/) - you will need the tips here if you want @Async to work with Spring 3.X, seems like no such problem on Spring Boot 2.X. 
+There is an [example here](https://github.com/mallim/java101/tree/master/CompletableExecutor)
+
 ```
 Nthreads) = Ncpu * Ucpu * (1 + W/C)
 
