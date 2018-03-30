@@ -1,5 +1,5 @@
 ---
-title: "Let my future be Complete..."
+title: "Let My Future be Complete..."
 comments: true
 tags:
   - java
