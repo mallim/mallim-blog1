@@ -17,6 +17,8 @@ Hmm.. so there is a a difference.
 ### Libraries related to CompletableFuture 
 
 * [tascalate-concurrent](https://github.com/vsilaev/tascalate-concurrent)
+* [cyclops-react](https://github.com/aol/cyclops-react) - good introduction at [What is Cyclops-react?](https://blog.jooq.org/2016/05/12/cyclops-react-organises-the-cambrian-explosion-of-java-8-libraries/) 
+and [homepage](http://cyclops-react.io/) at http://cyclops-react.io/
 
 ### Libraries related to Executor
 
