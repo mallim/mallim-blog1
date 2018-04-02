@@ -19,11 +19,14 @@ Hmm.. so there is a a difference.
 * [tascalate-concurrent](https://github.com/vsilaev/tascalate-concurrent)
 * [cyclops-react](https://github.com/aol/cyclops-react) - good introduction at [What is Cyclops-react?](https://blog.jooq.org/2016/05/12/cyclops-react-organises-the-cambrian-explosion-of-java-8-libraries/) 
 and [homepage](http://cyclops-react.io/) at http://cyclops-react.io/
+* [ea-async](https://github.com/electronicarts/ea-async) - EA Async implements async-await methods in the JVM. It looks like a simplified version of [kilim](https://github.com/nqzero/kilim)
 
-### Libraries related to Executor
+### Libraries related to Executor/Executor Service
 
 * [async-retry](https://github.com/nurkiewicz/async-retry)
 * [vmlens Executor service](https://github.com/vmlens/executor-service) - A high throughput java executor service
+* [About ExecutorServices](https://blog.jayway.com/2014/03/06/about-executorservices/) take note on the section about Dynamic ThreadPoolExecutor and there is a formula for Sizing Thread Pools.
+* [BlockingThreadPoolExecutor](https://github.com/umermansoor/BlockingThreadPoolExecutor) A Blocking ThreadPoolExecutor (alternative ThreadPoolExecutor Java)
 
 ### Parallel Stream --> CompletableFuture
 
