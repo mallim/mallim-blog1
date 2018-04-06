@@ -8,6 +8,14 @@ tags:
 
 Well. Finally got around to putting this old website together. 
 
+### Version Info
+
+This is updated to this point - [Tidied up tag opening/closing and interaction with URL, which Fixes #6](https://github.com/sfreytag/friday-theme/commit/c599819c1fa40cb0a3145c62aeb94f8015054d5d)
+
+## Update 07-Apr: Added Contact Form
+
+* I attended a talk and he said that a website should at least have a basic contact form. So I make one. Using [99inbound](https://www.99inbound.com/) for now
+
 <!--more-->
 
 ### Treat this as Hello World 
@@ -16,10 +24,6 @@ But is actually like a changelog
 
 Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. 
 It actually is a lot easier than I thought it was going to be.
-
-### Version
-
-This is updated to this point - [Tidied up tag opening/closing and interaction with URL, which Fixes #6](https://github.com/sfreytag/friday-theme/commit/c599819c1fa40cb0a3145c62aeb94f8015054d5d)
 
 ## Update 24-Mar: Added Webanalytics for Jekyll, Sitemap
 
@@ -43,6 +47,7 @@ This site is made possible by the amazing people in the internet, special thanks
 * [John Smith's The Friday theme](https://sfreytag.github.io/friday-theme/index.html) for the theme
 * [Setup up a jekyll blog using github pages and disqus comments](http://vdaubry.github.io/2014/10/19/setup-a-jekyll-blog/) 
 [Jekyllthemes](http://jekyllthemes.org), [stock-up](https://www.sitebuilderreport.com/stock-up), for the idea on [Disqus](https://disqus.com/), contact form
+* [Simple Contact Form On Jekyll](https://gohkhoonhiang.github.io/2016/05/simple-contact-form-on-jekyll/) - thanks for the decent form layout and trying out [99inbound](https://www.99inbound.com/)
 
 ### What's next?
 
@@ -52,3 +57,7 @@ setting up free SSL (https), custom domain, email
 [Add social sharing buttons to your Jekyll blog](http://vdaubry.github.io/2014/10/20/add-social-sharing-buttons-with-jekyll/)
 * [5 Steps To Add Bootstrap 4 To Jekyll The Right Way](https://simpleit.rocks/how-to-add-bootstrap-4-to-jekyll-the-right-way/) upgrade to Bootstrap 4 (latest version) and use SASS instead
 * [minimal-mistakes](https://mmistakes.github.io/minimal-mistakes/) - looks good
+* [Jekyll From Scratch - Extending Jekyll](http://pixelcog.com/blog/2013/jekyll-from-scratch-extending-jekyll/) - got qutie a few idea in here
+
+### Useful but not so related resources
+* [The ultimate list of services for static websites](https://cloudcannon.com/tips/2014/12/12/the-ultimate-list-of-services-for-static-websites.html) - very comprehensive and make me want to bookmark it here
