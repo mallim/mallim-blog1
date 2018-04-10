@@ -1,5 +1,6 @@
-This is the homepage of a person called Ian LIM who lives in Singapore. 
+Ian LIM is a Software Craftsman based in Singapore. He currently works on Java optimization on an interesting business scenario.
 
-I blog occasionally, maintains some findings when looking around. 
+While not working on his daily job, he's [blogging](https://mallim.github.io) and learning new things e.g. Kotlin, Python and ReactJS.
+
 
 

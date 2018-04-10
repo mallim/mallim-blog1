@@ -8,9 +8,6 @@ narrow: true
 
 <hr />
 
-Just a software practiioner who wants a garden by his own to cultivate and record his learning journey
-in the vast universe of software.
-
 ### Certificates
 
 * [Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
@@ -20,3 +17,5 @@ in the vast universe of software.
 * Java 
 * Spring Framework (since Spring Framework pre 1.0)
 * Javascript
+
+Want to hire him? Need consulting? Want to chat about something? Shoot him an [email](mailto:mallim.ink@gmail.com).
