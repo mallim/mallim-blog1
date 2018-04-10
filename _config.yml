@@ -76,7 +76,7 @@ defaults:
 
 plugins:
   - jekyll-gist
-
+  - jekyll-seo-tag
 
 
 

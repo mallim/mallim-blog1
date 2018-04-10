@@ -12,6 +12,10 @@ Well. Finally got around to putting this old website together.
 
 This is updated to this point - [Tidied up tag opening/closing and interaction with URL, which Fixes #6](https://github.com/sfreytag/friday-theme/commit/c599819c1fa40cb0a3145c62aeb94f8015054d5d)
 
+## Update 10-Apr: Add jekyll-seo-tag
+
+* Added  [jekyll-seo-tag](https://github.com/jekyll/jekyll-seo-tag) but seems like quite a number of things to do to get it right ...
+
 ## Update 07-Apr: Added Contact Form
 
 * I attended a talk and he said that a website should at least have a basic contact form. So I make one. Using [99inbound](https://www.99inbound.com/) for now
