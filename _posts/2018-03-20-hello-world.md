@@ -15,6 +15,7 @@ This is updated to this point - [Tidied up tag opening/closing and interaction w
 ## Update 10-Apr: Add jekyll-seo-tag
 
 * Added  [jekyll-seo-tag](https://github.com/jekyll/jekyll-seo-tag) but seems like quite a number of things to do to get it right ...
+* Revised own introduction, inspired by [Carlos Alexandro Becker's About page](https://carlosbecker.com/about/)
 
 ## Update 07-Apr: Added Contact Form
 
