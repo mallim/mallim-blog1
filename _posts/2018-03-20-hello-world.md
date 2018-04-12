@@ -12,16 +12,29 @@ Well. Finally got around to putting this old website together.
 
 This is updated to this point - [Tidied up tag opening/closing and interaction with URL, which Fixes #6](https://github.com/sfreytag/friday-theme/commit/c599819c1fa40cb0a3145c62aeb94f8015054d5d)
 
-## Update 10-Apr: Add jekyll-seo-tag
+### Update 10-Apr: Add jekyll-seo-tag
 
 * Added  [jekyll-seo-tag](https://github.com/jekyll/jekyll-seo-tag) but seems like quite a number of things to do to get it right ...
 * Revised own introduction, inspired by [Carlos Alexandro Becker's About page](https://carlosbecker.com/about/)
 
-## Update 07-Apr: Added Contact Form
+<!--more-->
+
+### Failed Attempt: 12-Apr: Upgrade to Bootstrap 4.1 with scss
+
+* Followed the instruction in [Creating a Jekyll Blog with Bootstrap 4 and Sass - Part 1](https://experimentingwithcode.com/creating-a-jekyll-blog-with-bootstrap-4-and-sass-part-1/index.html)
+* I follow [How to use Sass with Jekyll (Bootstrap and Font Awesome example)](https://dalanzg.github.io/tips-tutorials/jekyll/2016/03/25/how-to-use-sass-with-jekyll/) to do the file structuring
+
+Need to add the following in _config.yml:
+
+```
+sass:
+  sass_dir: _scss
+  style: :compressed
+```
+
+### Update 07-Apr: Added Contact Form
 
 * I attended a talk and he said that a website should at least have a basic contact form. So I make one. Using [99inbound](https://www.99inbound.com/) for now
-
-<!--more-->
 
 ### Treat this as Hello World 
 
