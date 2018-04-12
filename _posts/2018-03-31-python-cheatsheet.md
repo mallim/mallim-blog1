@@ -8,6 +8,8 @@ tags:
 
 Question of the day: "Where can I find cheatsheets for Python?"
 
+<!--more-->
+
 Here is what I found:
 
 * [Cheatsheet for Matplotlib](https://github.com/juliangaal/python-cheat-sheet/blob/master/Matplotlib/Matplotlib.md) - markdown format

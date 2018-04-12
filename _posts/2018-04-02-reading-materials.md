@@ -8,6 +8,8 @@ tags:
 
 Here are some reading materials which I keep here to browse through when I am in a MRT or long trip.
 
+<!--more-->
+
 ### Reading Materials related to Streams or equivalent
 
 * [Refactoring with Loops and Collection Pipelines](https://martinfowler.com/articles/refactoring-pipelines.html) - looks interesting that I felt the need to go through a few more times 
