@@ -8,11 +8,11 @@ tags:
 
 Well. Finally got around to putting this old website together. 
 
-### Version Info
+#### Version Info
 
 This is updated to this point - [Tidied up tag opening/closing and interaction with URL, which Fixes #6](https://github.com/sfreytag/friday-theme/commit/c599819c1fa40cb0a3145c62aeb94f8015054d5d)
 
-### Update 10-Apr: Add jekyll-seo-tag
+#### Update 10-Apr: Add jekyll-seo-tag
 
 * Added  [jekyll-seo-tag](https://github.com/jekyll/jekyll-seo-tag) but seems like quite a number of things to do to get it right ...
 * Revised own introduction, inspired by [Carlos Alexandro Becker's About page](https://carlosbecker.com/about/)
