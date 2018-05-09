@@ -8,6 +8,32 @@ tags:
 
 Well. Finally got around to putting this old website together. 
 
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Introduction](#introduction)
+  - [Update 09-May-2018](#update-09-may-2018)
+  - [Version Info](#version-info)
+  - [Update Another Theme...](#update-another-theme)
+- [Changelog](#changelog)
+  - [Update 10-Apr-2018: Add jekyll-seo-tag](#update-10-apr-2018-add-jekyll-seo-tag)
+  - [Update 12-Apr-2018: Upgrade to Bootstrap 4.1 with scss](#update-12-apr-2018-upgrade-to-bootstrap-41-with-scss)
+  - [Update 07-Apr-2018: Added Contact Form](#update-07-apr-2018-added-contact-form)
+  - [Treat this as Hello World](#treat-this-as-hello-world)
+  - [Update 24-Mar-2018: Added Webanalytics for Jekyll, Sitemap](#update-24-mar-2018-added-webanalytics-for-jekyll-sitemap)
+  - [Update before 24-Mar-2018: Disqus is a challenging story](#update-before-24-mar-2018-disqus-is-a-challenging-story)
+- [Lastly...](#lastly)
+  - [Acknowledgements](#acknowledgements)
+  - [What's next?](#whats-next)
+  - [Useful but not so related resources](#useful-but-not-so-related-resources)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+<!--more-->
+
+### Introduction
+
 #### Update 09-May-2018
 
 * Experiment with [DocToc](https://github.com/thlorenz/doctoc) to generate Table of Content
@@ -20,30 +46,14 @@ This is updated to this point - 11-MAR-2018 : [Tidied up tag opening/closing and
 
 * [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/)
 
-<!--more-->
+### Changelog
 
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
-
-- [Update 10-Apr-2018: Add jekyll-seo-tag](#update-10-apr-2018-add-jekyll-seo-tag)
-- [Update 12-Apr-2018: Upgrade to Bootstrap 4.1 with scss](#update-12-apr-2018-upgrade-to-bootstrap-41-with-scss)
-- [Update 07-Apr-2018: Added Contact Form](#update-07-apr-2018-added-contact-form)
-- [Treat this as Hello World](#treat-this-as-hello-world)
-- [Update 24-Mar-2018: Added Webanalytics for Jekyll, Sitemap](#update-24-mar-2018-added-webanalytics-for-jekyll-sitemap)
-- [Update before 24-Mar-2018: Disqus is a challenging story](#update-before-24-mar-2018-disqus-is-a-challenging-story)
-- [Acknowledgements](#acknowledgements)
-- [What's next?](#whats-next)
-- [Useful but not so related resources](#useful-but-not-so-related-resources)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
-### Update 10-Apr-2018: Add jekyll-seo-tag
+#### Update 10-Apr-2018: Add jekyll-seo-tag
 
 * Added  [jekyll-seo-tag](https://github.com/jekyll/jekyll-seo-tag) but seems like quite a number of things to do to get it right ...
 * Revised own introduction, inspired by [Carlos Alexandro Becker's About page](https://carlosbecker.com/about/)
 
-### Update 12-Apr-2018: Upgrade to Bootstrap 4.1 with scss
+#### Update 12-Apr-2018: Upgrade to Bootstrap 4.1 with scss
 
 * Failed attempt in upgrading to Bootstrap 4.1
 * Followed the instruction in [Creating a Jekyll Blog with Bootstrap 4 and Sass - Part 1](https://experimentingwithcode.com/creating-a-jekyll-blog-with-bootstrap-4-and-sass-part-1/index.html)
@@ -57,32 +67,34 @@ sass:
   style: :compressed
 ```
 
-### Update 07-Apr-2018: Added Contact Form
+#### Update 07-Apr-2018: Added Contact Form
 
 * I attended a talk and he said that a website should at least have a basic contact form. So I make one. Using [99inbound](https://www.99inbound.com/) for now
 
-### Treat this as Hello World 
+#### Treat this as Hello World 
 
 But is actually like a changelog
 
 Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. 
 It actually is a lot easier than I thought it was going to be.
 
-### Update 24-Mar-2018: Added Webanalytics for Jekyll, Sitemap
+#### Update 24-Mar-2018: Added Webanalytics for Jekyll, Sitemap
 
 * This one does not automatically generate the Google Analytics script - [Jekyll::analytics](https://github.com/hendrikschneider/jekyll-analytics). Instead followed the instructions in here - 
 [Google Analytics for Jekyll](https://desiredpersona.com/google-analytics-jekyll/)
 * [Google Search Console](https://www.google.com/webmasters/tools/home) - added site to Google Search Console
 * [Generate Jekyll XML Sitemap Manually Without Using Plugin](https://www.goyllo.com/jekyll-xml-sitemap/) - followed instruction here to add sitemap.xml 
 
-### Update before 24-Mar-2018: Disqus is a challenging story
+#### Update before 24-Mar-2018: Disqus is a challenging story
 
 Disqus website itself too generic to be helpful.
 
 * Inspired by [Setup up a jekyll blog using github pages and disqus comments](http://vdaubry.github.io/2014/10/19/setup-a-jekyll-blog/)
 * Done by using the instructions here [Disqus comments setup for Jekyll](https://desiredpersona.com/disqus-comments-jekyll/)
 
-### Acknowledgements
+### Lastly...
+
+#### Acknowledgements
 
 This site is made possible by the amazing people in the internet, special thanks to :
 
@@ -92,7 +104,7 @@ This site is made possible by the amazing people in the internet, special thanks
 [Jekyllthemes](http://jekyllthemes.org), [stock-up](https://www.sitebuilderreport.com/stock-up), for the idea on [Disqus](https://disqus.com/), contact form
 * [Simple Contact Form On Jekyll](https://gohkhoonhiang.github.io/2016/05/simple-contact-form-on-jekyll/) - thanks for the decent form layout and trying out [99inbound](https://www.99inbound.com/)
 
-### What's next?
+#### What's next?
 
 * [The Complete Github Personal Website Guide](https://blog.ronakshah.net/The-Complete-Github-Personal-Website-Guide/#initial-setup) 
 setting up free SSL (https), custom domain, email 
@@ -102,5 +114,5 @@ setting up free SSL (https), custom domain, email
 * [minimal-mistakes](https://mmistakes.github.io/minimal-mistakes/) - looks good
 * [Jekyll From Scratch - Extending Jekyll](http://pixelcog.com/blog/2013/jekyll-from-scratch-extending-jekyll/) - got qutie a few idea in here
 
-### Useful but not so related resources
+#### Useful but not so related resources
 * [The ultimate list of services for static websites](https://cloudcannon.com/tips/2014/12/12/the-ultimate-list-of-services-for-static-websites.html) - very comprehensive and make me want to bookmark it here
