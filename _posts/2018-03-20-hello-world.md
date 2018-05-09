@@ -8,6 +8,10 @@ tags:
 
 Well. Finally got around to putting this old website together. 
 
+#### Update 09-May-2018
+
+* Experiment with [DocToc](https://github.com/thlorenz/doctoc) to generate Table of Content
+
 #### Version Info
 
 This is updated to this point - 11-MAR-2018 : [Tidied up tag opening/closing and interaction with URL, which Fixes #6](https://github.com/sfreytag/friday-theme/commit/c599819c1fa40cb0a3145c62aeb94f8015054d5d)
@@ -18,13 +22,30 @@ This is updated to this point - 11-MAR-2018 : [Tidied up tag opening/closing and
 
 <!--more-->
 
-#### Update 10-Apr: Add jekyll-seo-tag
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Update 10-Apr-2018: Add jekyll-seo-tag](#update-10-apr-2018-add-jekyll-seo-tag)
+- [Update 12-Apr-2018: Upgrade to Bootstrap 4.1 with scss](#update-12-apr-2018-upgrade-to-bootstrap-41-with-scss)
+- [Update 07-Apr-2018: Added Contact Form](#update-07-apr-2018-added-contact-form)
+- [Treat this as Hello World](#treat-this-as-hello-world)
+- [Update 24-Mar-2018: Added Webanalytics for Jekyll, Sitemap](#update-24-mar-2018-added-webanalytics-for-jekyll-sitemap)
+- [Update before 24-Mar-2018: Disqus is a challenging story](#update-before-24-mar-2018-disqus-is-a-challenging-story)
+- [Acknowledgements](#acknowledgements)
+- [What's next?](#whats-next)
+- [Useful but not so related resources](#useful-but-not-so-related-resources)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+### Update 10-Apr-2018: Add jekyll-seo-tag
 
 * Added  [jekyll-seo-tag](https://github.com/jekyll/jekyll-seo-tag) but seems like quite a number of things to do to get it right ...
 * Revised own introduction, inspired by [Carlos Alexandro Becker's About page](https://carlosbecker.com/about/)
 
-### Failed Attempt: 12-Apr: Upgrade to Bootstrap 4.1 with scss
+### Update 12-Apr-2018: Upgrade to Bootstrap 4.1 with scss
 
+* Failed attempt in upgrading to Bootstrap 4.1
 * Followed the instruction in [Creating a Jekyll Blog with Bootstrap 4 and Sass - Part 1](https://experimentingwithcode.com/creating-a-jekyll-blog-with-bootstrap-4-and-sass-part-1/index.html)
 * I follow [How to use Sass with Jekyll (Bootstrap and Font Awesome example)](https://dalanzg.github.io/tips-tutorials/jekyll/2016/03/25/how-to-use-sass-with-jekyll/) to do the file structuring
 
@@ -36,7 +57,7 @@ sass:
   style: :compressed
 ```
 
-### Update 07-Apr: Added Contact Form
+### Update 07-Apr-2018: Added Contact Form
 
 * I attended a talk and he said that a website should at least have a basic contact form. So I make one. Using [99inbound](https://www.99inbound.com/) for now
 
@@ -47,14 +68,14 @@ But is actually like a changelog
 Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. 
 It actually is a lot easier than I thought it was going to be.
 
-## Update 24-Mar: Added Webanalytics for Jekyll, Sitemap
+### Update 24-Mar-2018: Added Webanalytics for Jekyll, Sitemap
 
 * This one does not automatically generate the Google Analytics script - [Jekyll::analytics](https://github.com/hendrikschneider/jekyll-analytics). Instead followed the instructions in here - 
 [Google Analytics for Jekyll](https://desiredpersona.com/google-analytics-jekyll/)
 * [Google Search Console](https://www.google.com/webmasters/tools/home) - added site to Google Search Console
 * [Generate Jekyll XML Sitemap Manually Without Using Plugin](https://www.goyllo.com/jekyll-xml-sitemap/) - followed instruction here to add sitemap.xml 
 
-### Update before 24-Mar: Disqus is a challenging story
+### Update before 24-Mar-2018: Disqus is a challenging story
 
 Disqus website itself too generic to be helpful.
 
