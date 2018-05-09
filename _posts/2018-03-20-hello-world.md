@@ -6,11 +6,11 @@ tags:
   - welcome
 ---
 
-This post records my actvities on this github blog pages 
+This post records my actvities on this github blog pages :-)
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+**Table of Contents**  
 
 - [Introduction](#introduction)
   - [Update 09-May-2018](#update-09-may-2018)
