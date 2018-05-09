@@ -9,14 +9,6 @@ tags:
 
 Tools and utilities which I will install when I got a new laptop for development besides my usual IDE.
 
-#### Update 2018-May-09
-
-* Added [VNote]((https://tamlok.github.io/vnote/) - this one looks basic enough to use to edit markdown files and quite good to use with a git backend.
-* Added [Redmine](https://www.redmine.org/) to deprecates.
-* Included a Table of Content 
-
-<!--more-->
-
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
@@ -40,8 +32,12 @@ Tools and utilities which I will install when I got a new laptop for development
   - [Redmine](#redmine)
 - [In the pipeline to try out...](#in-the-pipeline-to-try-out)
 - [Inspired by](#inspired-by)
+- [Changelog](#changelog)
+  - [Update 2018-May-09](#update-2018-may-09)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+<!--more-->
 
 ## The Must-Haves
 
@@ -126,6 +122,14 @@ ColorZilla, CSS Peeper, Pesticide.
 
 * [Tools I wish I had known about when I started coding](https://medium.freecodecamp.org/tools-i-wish-i-had-known-about-when-i-started-coding-57849efd9248)
 * [Keep calm and code on: Productivity tools for developers](https://dev.to/marina_pilip/keep-calm-and-code-on-productivity-tools-for-developers-10o4)
+
+## Changelog
+
+### Update 2018-May-09
+
+* Added [VNote]((https://tamlok.github.io/vnote/) - this one looks basic enough to use to edit markdown files and quite good to use with a git backend.
+* Added [Redmine](https://www.redmine.org/) to deprecates.
+* Included a Table of Content 
 
 Let me know if you think there are tools which I should explore...
 
