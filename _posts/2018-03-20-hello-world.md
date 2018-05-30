@@ -13,6 +13,7 @@ This post records my actvities on this github blog pages :-)
 **Table of Contents**  
 
 - [Introduction](#introduction)
+  - [Update 30-May-2018](#update-30-may-2018)
   - [Update 09-May-2018](#update-09-may-2018)
   - [Version Info](#version-info)
   - [Update Another Theme...](#update-another-theme)
@@ -34,9 +35,9 @@ This post records my actvities on this github blog pages :-)
 
 ### Introduction
 
-#### Update 09-May-2018
+#### Update 30-May-2018
 
-* Experiment with [DocToc](https://github.com/thlorenz/doctoc) to generate Table of Content
+* Added social sharing buttons based on this article - [Social Media Share Bar for Jekyll blog/website](https://mycyberuniverse.com/web/social-media-share-bar-jekyll-blog-website.html)
 
 #### Version Info
 
@@ -47,6 +48,10 @@ This is updated to this point - 11-MAR-2018 : [Tidied up tag opening/closing and
 * [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/)
 
 ### Changelog
+
+#### Update 09-May-2018
+
+* Experiment with [DocToc](https://github.com/thlorenz/doctoc) to generate Table of Content
 
 #### Update 10-Apr-2018: Add jekyll-seo-tag
 
