@@ -11,6 +11,12 @@ title:            24 years in Software Craftsmanship # Site title
 name:             Ian LIM - Software Craftsman # Your name
 avatar:           /theme/img/1547272.jpg   # Path to an avatar image
 
+# SEO
+description: Journey of a Software Craftsman
+twitter:
+  username: mallim
+  card: summary
+
 # Disqus Comments
 disqus:
     # Leave shortname blank to disable comments site-wide.
